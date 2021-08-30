@@ -1,0 +1,26 @@
+.picture{
+    height: 200px;
+    width: 200px;
+}
+.dark-card{
+    background-color: brown;
+    height: 18rem;
+}
+.tall{
+    height: 10rem;
+}
+.taller{
+    height: 25rem;
+}
+.cent{
+    display: flex;
+    justify-content: center;
+}
+.butt{
+    border-radius: 3rem;
+    transform: translateY(7px);
+}
+.board{
+    border-radius: 2rem;
+}
+
